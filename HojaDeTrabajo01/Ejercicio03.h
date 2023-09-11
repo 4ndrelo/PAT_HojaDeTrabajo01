@@ -2,6 +2,7 @@
 class Ejercicio03
 {
 public:
-	bool isPowerOfTwo(int n);
+	bool esPotenciaDeDos(int n);
+
 };
 
